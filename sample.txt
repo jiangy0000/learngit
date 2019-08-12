@@ -4,4 +4,5 @@
 现在增加一行，another line
 chinese character
 change test 1
+change test 2
 	
