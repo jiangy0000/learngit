@@ -1,4 +1,6 @@
 学习git 使用
 这是一个示例文件
 现在是第一个版本
+现在增加一行，another line
+chinese character
 	
