@@ -6,3 +6,4 @@ chinese character
 change test 1
 change test 2
 change for romote github repository
+Creating a new branch is quick!
